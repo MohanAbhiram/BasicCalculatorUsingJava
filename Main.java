@@ -7,7 +7,7 @@ public class Main {
     }
     //testing
     public static double subtraction(double a, double b){
-        return a-b;
+        return aub;
     }
     public static double multiplication(double a, double b){
         return a*b;
